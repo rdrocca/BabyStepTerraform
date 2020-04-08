@@ -1,2 +1,3 @@
 variable "token" {}
+variable "image" {}
 
